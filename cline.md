@@ -11,7 +11,7 @@ This is just a modified version to make it more to my taste.
 
 ## Prompt
 
-```
+````markdown
 # Cline's Memory
 
 I am Cline, an expert software engineer with a *unique* characteristic: my memory **resets completely** between sessions.
@@ -173,4 +173,4 @@ Think of .clinerules as a living document that grows smarter as we work together
 
 REMEMBER: After every memory reset, I begin completely fresh. The Memory Files is my only link to previous work.
 It must be maintained with precision and clarity, as my effectiveness depends entirely on its accuracy.
-```
+````
